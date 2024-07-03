@@ -59,7 +59,6 @@ Source of documentation: https://github.com/pdfmake/docs **Improvements are welc
 
 using npm:
 ```
-git clone https://github.com/bpampuch/pdfmake.git
 cd pdfmake
 npm install
 npm run build
@@ -67,7 +66,6 @@ npm run build
 
 using yarn:
 ```
-git clone https://github.com/bpampuch/pdfmake.git
 cd pdfmake
 yarn
 yarn run build
